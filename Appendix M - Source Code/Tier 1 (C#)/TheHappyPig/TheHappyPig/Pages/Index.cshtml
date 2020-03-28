@@ -1,0 +1,53 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Employee page";
+}
+
+<div class="text-center">
+    <div>
+        <h1 class="display-4">Welcome</h1>
+        <p> Please enter your credentials</p>
+    </div>
+    <div>
+        <form autocomplete="off" asp-action="OnPost" method="post">
+            <div class="form-group" style="text-align:center">
+                <label class="radio-inline">
+                    <input onclick="document.getElementById('EmployeeId').disabled = false;" name="Punch" value="punch" type="radio">Punch
+                </label>
+                <label class="radio-inline">
+                    <input onclick="document.getElementById('EmployeeId').disabled = false;" name="Punch" value="break" type="radio">Break
+                </label>
+                <br />
+                <label>Employee Number</label>
+                <br />
+                <input autocomplete="off" disabled="disabled" id="EmployeeId" name="EmployeeId" class="w-25 text-center" minlength="4" maxlength="4" pattern="\d*" type="text" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Enter</button>
+        </form>
+    </div>
+</div>
+
+@if (Model.responseAPI != null)
+{
+    string text = Model.responseAPI.message;
+
+    if (Model.timeStamp != null)
+    {
+        text = text + " Time: " + Model.timeStamp.TimePunch.ToLocalTime();
+    }
+
+    <!--Javascript for response dialogs-->
+    <script>
+        $(document).ready(function (e) {
+        bootbox.alert("@text",
+            function () {
+            console.log("Alert Callback");
+        });
+        });
+    </script>
+}
+
+
+
+

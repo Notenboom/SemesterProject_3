@@ -1,0 +1,506 @@
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.exe
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.deps.json
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.runtimeconfig.json
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.runtimeconfig.dev.json
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.dll
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.pdb
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.Views.dll
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.Views.pdb
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.csprojAssemblyReference.cache
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\staticwebassets\TheHappyPig.StaticWebAssets.Manifest.cache
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\staticwebassets\TheHappyPig.StaticWebAssets.xml
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorAssemblyInfo.cache
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorAssemblyInfo.cs
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.AssemblyInfoInputs.cache
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.AssemblyInfo.cs
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.TagHelpers.input.cache
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.TagHelpers.output.cache
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorCoreGenerate.cache
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorTargetAssemblyInfo.cache
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorTargetAssemblyInfo.cs
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.Views.pdb
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.dll
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.pdb
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.csproj.CopyComplete
+D:\Desktop\webappnonmvc\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Manager.cshtml.g.cs
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.csprojAssemblyReference.cache
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\staticwebassets\TheHappyPig.StaticWebAssets.Manifest.cache
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\staticwebassets\TheHappyPig.StaticWebAssets.xml
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorAssemblyInfo.cache
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorAssemblyInfo.cs
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.AssemblyInfoInputs.cache
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.AssemblyInfo.cs
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.dll
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.pdb
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.TagHelpers.input.cache
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.TagHelpers.output.cache
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorCoreGenerate.cache
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Manager.cshtml.g.cs
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorTargetAssemblyInfo.cache
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorTargetAssemblyInfo.cs
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.exe
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.deps.json
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.runtimeconfig.json
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.runtimeconfig.dev.json
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.dll
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.pdb
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.Views.dll
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.Views.pdb
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.Views.pdb
+D:\Desktop\New folder\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.csproj.CopyComplete
+D:\Desktop\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Desktop\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Desktop\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Desktop\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.exe
+D:\Desktop\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.deps.json
+D:\Desktop\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.runtimeconfig.json
+D:\Desktop\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.runtimeconfig.dev.json
+D:\Desktop\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.dll
+D:\Desktop\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.pdb
+D:\Desktop\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.Views.dll
+D:\Desktop\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.Views.pdb
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.csprojAssemblyReference.cache
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\staticwebassets\TheHappyPig.StaticWebAssets.Manifest.cache
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\staticwebassets\TheHappyPig.StaticWebAssets.xml
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorAssemblyInfo.cache
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorAssemblyInfo.cs
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.AssemblyInfoInputs.cache
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.AssemblyInfo.cs
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.TagHelpers.input.cache
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.TagHelpers.output.cache
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorCoreGenerate.cache
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Manager.cshtml.g.cs
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorTargetAssemblyInfo.cache
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorTargetAssemblyInfo.cs
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.Views.pdb
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.dll
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.pdb
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.csproj.CopyComplete
+D:\Desktop\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Desktop\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Desktop\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Desktop\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Desktop\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.exe
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.deps.json
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.runtimeconfig.json
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.runtimeconfig.dev.json
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.pdb
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.Views.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.Views.pdb
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.csprojAssemblyReference.cache
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\staticwebassets\TheHappyPig.StaticWebAssets.Manifest.cache
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\staticwebassets\TheHappyPig.StaticWebAssets.xml
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorAssemblyInfo.cache
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorAssemblyInfo.cs
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.AssemblyInfoInputs.cache
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.AssemblyInfo.cs
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.TagHelpers.input.cache
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.TagHelpers.output.cache
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorCoreGenerate.cache
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorTargetAssemblyInfo.cache
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorTargetAssemblyInfo.cs
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.Views.pdb
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.csproj.CopyComplete
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.pdb
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Manager_Dashboard.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\Dashboard_layout.cshtml.g.cs
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.pdb
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.exe
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.deps.json
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.runtimeconfig.json
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.runtimeconfig.dev.json
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.pdb
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.Views.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.Views.pdb
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.csprojAssemblyReference.cache
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\staticwebassets\TheHappyPig.StaticWebAssets.Manifest.cache
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\staticwebassets\TheHappyPig.StaticWebAssets.xml
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorAssemblyInfo.cache
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorAssemblyInfo.cs
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.AssemblyInfoInputs.cache
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.AssemblyInfo.cs
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.TagHelpers.input.cache
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.TagHelpers.output.cache
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorCoreGenerate.cache
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Manager.cshtml.g.cs
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Manager_Dashboard.cshtml.g.cs
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\Dashboard_layout.cshtml.g.cs
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorTargetAssemblyInfo.cache
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorTargetAssemblyInfo.cs
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.Views.pdb
+C:\Users\Notenboom\Desktop\Git-SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.csproj.CopyComplete
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Register_Employee.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Login_Manager.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\All_Employees.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.exe
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.deps.json
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.runtimeconfig.json
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.runtimeconfig.dev.json
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.pdb
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.Views.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\TheHappyPig.Views.pdb
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.csprojAssemblyReference.cache
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\staticwebassets\TheHappyPig.StaticWebAssets.Manifest.cache
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\staticwebassets\TheHappyPig.StaticWebAssets.xml
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorAssemblyInfo.cache
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorAssemblyInfo.cs
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.AssemblyInfoInputs.cache
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.AssemblyInfo.cs
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.TagHelpers.input.cache
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.TagHelpers.output.cache
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorCoreGenerate.cache
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorTargetAssemblyInfo.cache
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.RazorTargetAssemblyInfo.cs
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.Views.pdb
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.csproj.CopyComplete
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\TheHappyPig.pdb
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Manager\EmployeeRegister.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Manager\ViewEmployee.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Manager\ViewLogin.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Manager\ViewRegistration.cshtml.g.cs
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 1 (C#)\TheHappyPig\TheHappyPig\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\DashboardLayout.cshtml.g.cs

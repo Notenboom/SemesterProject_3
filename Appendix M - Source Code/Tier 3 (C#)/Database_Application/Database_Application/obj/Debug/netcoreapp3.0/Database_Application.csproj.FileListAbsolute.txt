@@ -1,0 +1,88 @@
+D:\Desktop\Database\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.exe
+D:\Desktop\Database\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.AssemblyInfoInputs.cache
+D:\Desktop\Database\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.AssemblyInfo.cs
+D:\Desktop\Database\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Database\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Database\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Database\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Npgsql.dll
+D:\Desktop\Database\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Desktop\Database\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.csprojAssemblyReference.cache
+D:\Desktop\Database\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.csproj.CopyComplete
+D:\Desktop\Database\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.deps.json
+D:\Desktop\Database\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.runtimeconfig.json
+D:\Desktop\Database\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.runtimeconfig.dev.json
+D:\Desktop\Database\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.dll
+D:\Desktop\Database\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.pdb
+D:\Desktop\Database\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\Database\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.dll
+D:\Desktop\Database\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.pdb
+D:\Desktop\Database\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Desktop\Database\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Desktop\Database\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Desktop\Database\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.exe
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.deps.json
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.runtimeconfig.json
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.runtimeconfig.dev.json
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.pdb
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Npgsql.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.csprojAssemblyReference.cache
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.AssemblyInfoInputs.cache
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.AssemblyInfo.cs
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.csproj.CopyComplete
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.dll
+D:\Desktop\Bullshit\SEP3\sep3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.pdb
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.exe
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.deps.json
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.runtimeconfig.json
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.runtimeconfig.dev.json
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.dll
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.pdb
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Npgsql.dll
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.csprojAssemblyReference.cache
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.AssemblyInfoInputs.cache
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.AssemblyInfo.cs
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.csproj.CopyComplete
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.dll
+D:\Desktop\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.pdb
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.exe
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.deps.json
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.runtimeconfig.json
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.runtimeconfig.dev.json
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Database_Application.pdb
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Npgsql.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.csprojAssemblyReference.cache
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.AssemblyInfoInputs.cache
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.AssemblyInfo.cs
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.csproj.CopyComplete
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.dll
+D:\Desktop\Bullshit\SEP3\Source Code\Tier 3 (C#)\Database_Application\Database_Application\obj\Debug\netcoreapp3.0\Database_Application.pdb

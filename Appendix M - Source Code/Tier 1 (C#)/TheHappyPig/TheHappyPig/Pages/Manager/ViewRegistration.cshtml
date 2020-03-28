@@ -1,0 +1,136 @@
+﻿@page
+@model             ViewRegistrationModel
+@{
+    ViewData["Title"] = "Registrations";
+    Layout = "~/Pages/Shared/DashboardLayout.cshtml";
+}
+
+
+<h3>Manager Dashboard</h3>
+
+<!--Registrations view-->
+<div class="card mb-3">
+    <div class="card-header">
+        <i class="fas fa-table"></i>
+        Last Registrations
+    </div>
+    
+    <!--Table for registrations-->
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>EmployeeId</th>
+                        <th>In</th>
+                        <th>Out</th>
+                        <th>In</th>
+                        <th>Out</th>
+                        <th>Duriation</th>
+                    </tr>
+                </thead>
+
+                <tfoot>
+                    <tr>
+                        <th>EmployeeId</th>
+                        <th>In</th>
+                        <th>Out</th>
+                        <th>In</th>
+                        <th>Out</th>
+                        <th>Duriation</th>
+                    </tr>
+                </tfoot>
+
+
+                <tbody>
+                    <!--Population the table when no data available-->
+                    @if (Model.Registrations == null)
+                    {
+                        <tr>
+                            <td>Empty</td>
+                            <td>Empty</td>
+                            <td>Empty</td>
+                            <td>Empty</td>
+                            <td>Empty</td>
+                            <td>Empty</td>
+                        </tr>
+                    }
+                    else
+                    {
+                        /*
+                         * Loop that takes the base (raw) registration list and 
+                         * rearanges it in a more readeable way. 
+                         */
+                        @for (int i = 0; i < Model.Registrations.Count(); i++)
+                        {
+                            <tr>
+                                @if (Model.Registrations[i].PunchIn)
+                                {
+                                    <td>@Model.Registrations[i].EmployeeId</td>
+                                    <td>@Model.Registrations[i].TimePunch</td>
+
+                                    for (int j = i; j < Model.Registrations.Count(); j++)
+                                    {
+                                        if (Model.Registrations[j].EmployeeId == Model.Registrations[i].EmployeeId && !Model.Registrations[j].PunchIn && !Model.Registrations[j].IsBreak)
+                                        {
+                                            <td>@Model.Registrations[j].TimePunch</td>
+
+                                            for (int q = i; q < j; q++)
+                                            {
+                                                if (Model.Registrations[q].EmployeeId == Model.Registrations[i].EmployeeId && Model.Registrations[q].IsBreak && Model.Registrations[q].PunchInBreak)
+                                                {
+                                                    <td>@Model.Registrations[q].TimePunch</td>
+
+                                                    for (int z = q; z < j; z++)
+                                                    {
+                                                        if (Model.Registrations[z].EmployeeId == Model.Registrations[i].EmployeeId && Model.Registrations[z].IsBreak && !Model.Registrations[z].PunchInBreak)
+                                                        {
+                                                            <td>@Model.Registrations[z].TimePunch</td>
+                                                        }
+                                                        else if (z == j - 1)
+                                                        {
+                                                            <td> - </td>
+                                                        }
+                                                    }
+                                                    break;
+                                                }
+                                                else if (q == j - 1)
+                                                {
+                                                    <td> - </td>
+                                                    <td> - </td>
+                                                }
+                                            }
+
+                                            var hours = Model.Registrations[j].TimePunch - Model.Registrations[i].TimePunch;
+
+                                            <td>  @String.Format("{0:0.00}", hours.TotalHours) </td>
+                                            break;
+                                        }
+                                        else if (j == Model.Registrations.Count - 1)
+                                        {
+                                            var hours = DateTime.Now - Model.Registrations[i].TimePunch;
+
+                                            <td> - </td>
+                                            <td> - </td>
+                                            <td> - </td>
+                                            <td> @String.Format("{0:0.00}", hours.TotalHours) </td>
+                                        }
+                                    }
+
+                                }
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+            <div>
+                <form method="post" asp-page="ViewRegistration">
+                    <!--Refresh method caller-->
+                    <button type="submit" class="btn btn-secondary" asp-page-handler="RefreshRegistrations"> Refresh</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
